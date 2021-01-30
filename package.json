@@ -1,0 +1,29 @@
+{
+  "name": "premess",
+  "version": "1.0.0",
+  "description": "A tool that helps you to mess PreMiD users up",
+  "main": "premess.js",
+  "type": "module",
+  "scripts": {
+    "start": "node premess.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noxturnix/premess.git"
+  },
+  "keywords": [
+    "PreMiD",
+    "Tools"
+  ],
+  "author": "Noxturnix",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Noxturnix/premess/issues"
+  },
+  "homepage": "https://github.com/Noxturnix/premess#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "enquirer": "^2.3.6",
+    "socket.io-client": "2.4.0"
+  }
+}

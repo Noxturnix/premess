@@ -1,0 +1,13 @@
+{
+    "clientId": "463097721130188830",
+    "presenceData": {
+        "details": "Darude - Sandstorm",
+        "state": "Darude",
+        "largeImageKey": "yt_lg",
+        "smallImageKey": "play",
+        "smallImageText": "Playing",
+        "largeImageText": "Premess"
+    },
+    "trayTitle": "Darude - Sandstorm",
+    "playback": true
+}
